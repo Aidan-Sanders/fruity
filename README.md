@@ -1,0 +1,2 @@
+# fruity
+Discord Bot
